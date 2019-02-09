@@ -1,0 +1,106 @@
+// CMC File
+//  Game Title: Tie Fighter
+//  written  by:  Prepper Jo
+////////////////////////
+// Menus and  Interface
+
+Mission-Goals                   g
+Map                             m
+Mission-Quit                    q
+Mission-Abort                   h
+
+
+/////////////////
+// View
+
+View-Left-Forward               KP1
+View-Forward                    KP8
+View-Right-Forward              KP9
+View-Left-Wing                  KP4
+View-Straight-Up                KP5
+View-Right-Wing                 KP6
+View-Left-Shoulder              KP1
+View-Rear-View                  KP2
+View-Right-Shoulder             KP3
+View-Toggle-45deg               KP0
+
+Simple-Hud .
+
+Toggle-external-view            F1
+Toggle-external-warhead-view    F2
+Toggle-external-cockpit-view    F3
+Toggle-Control-of-Aircraft      F4
+
+/////////////////
+// Propulsion
+
+Speed-Increase                  +
+Speed-Decrease                  -
+Speed-To-Zero                   K102
+Speed-one-third                 [
+Speed-two-third                 ]
+Speed-Full                      BKSPC
+
+Match-Targets-Velocity          ENT
+
+Enter-Hyperspace                h
+
+/////////////////
+// Combat Systems
+
+Shield-Config                   s
+Power-To-Weapons                ;
+Power-To-Shields                '
+Recharge-Beam                   F8
+Recharge-Weapon                 F9
+Energy-To-Weapon      HOLD LSHF F9
+Recharge-Shield                 F10
+Energy-To-Shield      HOLD LSHF F10
+
+Eject                 HOLD LALT e
+
+////////////////////////
+// Weapons
+
+Cycle-Weapons                   w
+Weapon-Converge                 z
+Weapon-Config                   x
+Counter-Measure                 c
+Toggle-Beams                    b
+
+
+/////////////////
+// Targeting
+
+
+Target-Next                     t
+Target-Previous                 y
+Target-Newest-Craft             u
+Target-Nearest-Enemy            r
+Target-Targets-Attacker         a
+
+Toggle-Component-Tracking-Disp  i
+Target-Next-Subsystem           ,
+Target-Previous-Subsystem       <
+
+/////////////////
+// Commands
+
+Confirm-Request                 SPC
+Threat-Display                  z
+Clears-CMD                      o
+
+
+////////////////////////
+// Communication
+
+Attack-Target       HOLD  LSHF  a
+Resupply-Ship       HOLD  LSHF  b
+Cover-Me            HOLD  LSHF  c
+Evasive-Action      HOLD  LSHF  e
+Continue-Mission    HOLD  LSHF  g
+Head-Home           HOLD  LSHF  h
+Ignore-Target       HOLD  LSHF  i
+Status-Report       HOLD  LSHF  r
+Send-Reinforcements HOLD  LSHF  s
+Stop-and-Wait       HOLD  LSHF  w
