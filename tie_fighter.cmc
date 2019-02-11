@@ -13,7 +13,7 @@ Mission-Abort                   h
 /////////////////
 // View
 
-View-Left-Forward               KP1
+View-Left-Forward               KP7
 View-Forward                    KP8
 View-Right-Forward              KP9
 View-Left-Wing                  KP4
